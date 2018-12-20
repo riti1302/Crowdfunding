@@ -1,5 +1,5 @@
 # [Crowdfunding](https://en.wikipedia.org/wiki/Crowdfunding)-scrape
-Scraper for real crowdfunding information listings on [fundrazr.com](https://fundrazr.com/) implemented in Python with Scrapy.
+Scraper for obtaining crowdfunding data in a structured manner on [fundrazr.com](https://fundrazr.com/) implemented in Python with Scrapy.
 
 ## Usage
 To crawl the scraper, you need to install [Python 3](https://www.python.org/download/releases/3.0/), as well as the
